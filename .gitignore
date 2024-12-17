@@ -1,0 +1,52 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Logs
+*.log
+
+# Environment Variables and System Files
+.env
+*.env
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints
+
+# Data files
+*.csv
+*.xlsx
+*.json
+
+# Directories created by Python tooling
+pip-wheel-metadata/
+*.egg-info/
+dist/
+build/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Machine Learning Model Outputs
+*.pkl
+*.h5
+*.joblib
+
+# Temporary Files
+*.tmp
+*.temp
+*.bak
+
+# Notebook Metadata
+*.ipynb
+
+# Additional Project-Specific Exclusions
+*.png
+*.svg
+*.pdf
+*.sqlite
