@@ -98,5 +98,3 @@ This project is open-source and available under the MIT License.
 
 ---
 
-For questions or feedback, contact [your_email@example.com].
-
